@@ -1,3 +1,6 @@
+# RACTICA_01_COV
+Practica 1 Manejo de Git
+test-st-dante 1
 # PRÁCTICA 1
 
 Esta práctica consistió en crear una página HTML muy básica con estilos y archivo de JS para ejecutar algunas funciones.
